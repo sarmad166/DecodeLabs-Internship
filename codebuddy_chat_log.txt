@@ -1,0 +1,186 @@
+[2026-09-15 19:27:27] You: HELLO BUDDY
+[2026-09-15 19:27:27] Bot: Hi! Nice to see you 😄
+
+[2026-09-15 19:27:31] You: KIYA HAL HA
+[2026-09-15 19:27:31] Bot: Hmm, let's talk about it. Thora aur batao?
+
+[2026-09-15 19:27:38] You: 'HOW ARE YOU
+[2026-09-15 19:27:38] Bot: All good here! 🤖 How about you?
+
+[2026-09-15 19:27:47] You: AUR KIYA KR RAHE HO
+[2026-09-15 19:27:47] Bot: Acha 😄 thora aur explain karo.
+
+[2026-09-15 19:27:59] You: WHAT DO YOU DO
+[2026-09-15 19:27:59] Bot: I can have casual conversations, remember your name, track mood, answer technical questions, and understand English + Roman Urdu.
+
+[2026-09-15 19:28:06] You: OK BYE
+[2026-09-15 19:28:06] Bot: Allah Hafiz! 👋 Phir baat hoti hai.
+
+[2026-09-15 19:30:59] You: HELLO
+[2026-09-15 19:30:59] Bot: Hey there! Batao kya scene hai?
+
+[2026-09-15 19:31:09] You: KUCHNHI
+[2026-09-15 19:31:09] Bot: Hmm, let's talk about it. Thora aur batao?
+
+[2026-09-15 19:31:29] You: MA NA KAHA NOTHING
+[2026-09-15 19:31:29] Bot: Hmm, let's talk about it. Thora aur batao?
+
+[2026-09-15 19:31:36] You: LANAT
+[2026-09-15 19:31:36] Bot: Hmm 🤔 I didn't completely understand that.
+
+[2026-09-15 19:32:07] You: WHAT IS OOP
+[2026-09-15 19:32:07] Bot: OOP (Object-Oriented Programming) organizes code using classes and objects.
+
+[2026-09-15 19:32:58] You: HELLO WORLD PROGRAM IN PYTHON 
+[2026-09-15 19:32:58] Bot: Hi! Nice to see you 😄
+
+[2026-09-15 19:33:21] You: PYTHON CODE
+[2026-09-15 19:33:21] Bot: Python is a high-level programming language known for its simple and readable syntax.
+
+[2026-09-15 19:33:34] You: KUTTAY
+[2026-09-15 19:33:34] Bot: Interesting! Tell me a little more.
+
+[2026-09-15 19:33:49] You: IT MEANS DOG
+[2026-09-15 19:33:49] Bot: Interesting! Tell me a little more.
+
+[2026-09-15 19:33:58] You: YOUR NAME
+[2026-09-15 19:33:58] Bot: I'm CodeBuddy 🤖, your rule-based Python chatbot.
+
+[2026-09-15 19:34:20] You: MY NAME IS MISBAH
+[2026-09-15 19:34:20] Bot: Nice to meet you, Misbah! 😄
+
+[2026-09-15 19:34:38] You: WHAT YOU DO
+[2026-09-15 19:34:38] Bot: Interesting! Tell me a little more.
+
+[2026-09-15 19:34:48] You: ARE YOU MAD
+[2026-09-15 19:34:48] Bot: Interesting! Tell me a little more.
+
+[2026-09-15 19:35:00] You: EXXIT
+[2026-09-15 19:35:00] Bot: Mujhe poori tarah samajh nahi aya 😅 thora detail mein batao.
+
+[2026-09-15 19:35:05] You: BYE
+[2026-09-15 19:35:05] Bot: Bye! Have a great day 🤖
+
+[2026-09-15 20:49:48] You: exit
+[2026-09-15 20:49:48] Bot: Bye! Have a great day 🤖
+
+[2026-09-15 20:50:09] You: i am brother of misbah
+[2026-09-15 20:50:09] Bot: Hmm 🤔 I didn't completely understand that.
+
+[2026-09-15 20:50:24] You: my name not misbah
+[2026-09-15 20:50:24] Bot: Hmm, let's talk about it. Thora aur batao?
+
+[2026-09-15 20:50:31] You: my name is sarmad
+[2026-09-15 20:50:31] Bot: Nice to meet you, Sarmad! 😄
+
+[2026-09-15 20:50:34] You: my name not misbah
+[2026-09-15 20:50:34] Bot: Mujhe poori tarah samajh nahi aya 😅 thora detail mein batao.
+
+[2026-09-15 20:50:46] You: bye
+[2026-09-15 20:50:46] Bot: Goodbye! 👋 Take care.
+
+[2026-09-15 20:51:11] You: time is 8:00 pm
+[2026-09-15 20:51:11] Bot: Hmm, let's talk about it. Thora aur batao?
+
+[2026-09-15 20:51:17] You: good night
+[2026-09-15 20:51:17] Bot: That's great to hear! 😄
+
+[2026-09-15 20:51:29] You: i'm sleeping
+[2026-09-15 20:51:29] Bot: Interesting! Tell me a little more.
+
+[2026-09-15 20:51:35] You: bosre ke
+[2026-09-15 20:51:35] Bot: Interesting! Tell me a little more.
+
+[2026-09-15 20:51:41] You: nhi mujha nhi pata ha
+[2026-09-15 20:51:41] Bot: Acha 😄 thora aur explain karo.
+
+[2026-09-15 20:51:46] You: kya kro
+[2026-09-15 20:51:46] Bot: Hmm, let's talk about it. Thora aur batao?
+
+[2026-09-15 20:51:50] You: nhi pata
+[2026-09-15 20:51:50] Bot: Acha 😄 thora aur explain karo.
+
+[2026-09-15 20:51:58] You: kiya btai
+[2026-09-15 20:51:58] Bot: Acha 😄 thora aur explain karo.
+
+[2026-09-15 20:52:06] You: kiya explain kro
+[2026-09-15 20:52:06] Bot: Mujhe poori tarah samajh nahi aya 😅 thora detail mein batao.
+
+[2026-09-15 20:52:16] You: kiya samjh nhi ai
+[2026-09-15 20:52:16] Bot: AI stands for Artificial Intelligence. It focuses on making computers perform tasks that normally require human-like intelligence.
+
+[2026-09-15 20:52:27] You: coding
+[2026-09-15 20:52:27] Bot: Coding is basically the process of creating instructions for a computer.
+
+[2026-09-15 20:52:37] You: chatbot name
+[2026-09-15 20:52:37] Bot: Hmm, let's talk about it. Thora aur batao?
+
+[2026-09-15 20:52:40] You: ap ka name
+[2026-09-15 20:52:40] Bot: Hmm 🤔 I didn't completely understand that.
+
+[2026-09-15 20:52:45] You: your naem
+[2026-09-15 20:52:45] Bot: Mujhe poori tarah samajh nahi aya 😅 thora detail mein batao.
+
+[2026-09-15 20:52:48] You: your name
+[2026-09-15 20:52:48] Bot: I'm CodeBuddy! I can chat with you and answer different types of questions.
+
+[2026-09-15 20:52:59] You: software engineering
+[2026-09-15 20:52:59] Bot: Hmm, let's talk about it. Thora aur batao?
+
+[2026-09-15 20:53:02] You: c++
+[2026-09-15 20:53:02] Bot: Interesting! Tell me a little more.
+
+[2026-09-15 20:53:06] You: html
+[2026-09-15 20:53:06] Bot: HTML web page ka basic structure banane ke liye use hoti hai.
+
+[2026-09-15 20:53:11] You: css
+[2026-09-15 20:53:11] Bot: CSS is used to style and design web pages.
+
+[2026-09-15 20:53:14] You: js
+[2026-09-15 20:53:14] Bot: Hmm 🤔 I didn't completely understand that.
+
+[2026-09-15 20:53:17] You: java
+[2026-09-15 20:53:17] Bot: Hmm, let's talk about it. Thora aur batao?
+
+[2026-09-16 08:46:15] You: hellhello
+[2026-09-16 08:46:15] Bot: Mujhe poori tarah samajh nahi aya 😅 thora detail mein batao.
+
+[2026-09-16 08:46:36] You: Explain OOP
+[2026-09-16 08:46:36] Bot: The four main pillars of OOP are Encapsulation, Abstraction, Inheritance and Polymorphism.
+
+[2026-09-16 09:10:48] You: hello
+[2026-09-16 09:10:48] Bot: Hi! Nice to see you 😄
+
+[2026-09-16 09:10:56] You: hoe sre you
+[2026-09-16 09:10:56] Bot: Hmm 🤔 I didn't completely understand that.
+
+[2026-09-16 09:11:02] You: godd
+[2026-09-16 09:11:02] Bot: Mujhe poori tarah samajh nahi aya 😅 thora detail mein batao.
+
+[2026-09-16 09:11:06] You: good
+[2026-09-16 09:11:06] Bot: Wah! That's good 😊
+
+[2026-09-16 09:11:14] You: What is AI?
+[2026-09-16 09:11:14] Bot: AI is a broad field that includes areas like Machine Learning, Computer Vision and Natural Language Processing.
+
+[2026-09-16 09:11:19] You: Explain OOP
+[2026-09-16 09:11:19] Bot: OOP (Object-Oriented Programming) organizes code using classes and objects.
+
+[2026-09-16 09:21:57] You: hello 
+[2026-09-16 09:21:57] Bot: Hey! 😄 How are you?
+
+[2026-09-16 09:22:01] You: kaise ho
+[2026-09-16 09:22:01] Bot: Hello! 🤖 What's going on?
+
+[2026-09-16 09:22:12] You: i study 
+[2026-09-16 09:22:12] Bot: Interesting! Tell me a little more.
+
+[2026-09-16 09:22:20] You: python and programming
+[2026-09-16 09:22:20] Bot: Python beginners ke liye bhi easy language hai aur iski bohat sari libraries available hain.
+
+[2026-09-16 09:22:31] You: in english
+[2026-09-16 09:22:31] Bot: Interesting! Tell me a little more.
+
+[2026-09-16 09:30:17] You: What is Git?
+[2026-09-16 09:30:17] Bot: GitHub is a platform where Git repositories can be hosted and shared online.
+
