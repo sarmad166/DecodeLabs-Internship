@@ -1,0 +1,4 @@
+codebuddy_profile.json
+codebuddy_chat_log.txt
+__pycache__/
+*.pyc
